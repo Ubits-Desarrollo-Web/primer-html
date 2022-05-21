@@ -1,5 +1,5 @@
-# Bit Dos de Introducción al Desarrollo Web con Ubits 
-En este Bit aprenderás.. 
+# Bit 2: HTML
+En este Bit del programa de Introducción al Desarrollo Web con Ubits aprenderás.. 
 
 ## Microbit Uno 
 Anatomía del documento de HTML
